@@ -19,7 +19,7 @@
 - Desarrollo de sistemas de información en multiples campos  
 - **Virtualización** con VirtualBox
 - **Manejo** de entornos de desarrollo (Visual Studio Code, Apache Netbeans, etc)📦
-- Uso de **Frameworks** de Desarrollo (Laravel y Bootstrap) 
+- Uso de **Frameworks** de Desarrollo (Laravel, Bootstrap y Pytest) 
 
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
