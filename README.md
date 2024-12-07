@@ -26,7 +26,7 @@
 ## 🌟 Estadísticas:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDavid&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Therealdavi836&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>  
 
 ---
