@@ -1,5 +1,3 @@
-Aquí tienes una plantilla personalizada y adaptada a tu información como estudiante de Administración de Sistemas Informáticos en la UNAL-MAN. 🎉 Puedes copiar y pegar esto en tu README.md en GitHub:  
-
 ---
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> ¡Hola Mundo! &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
