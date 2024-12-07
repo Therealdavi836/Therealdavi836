@@ -8,7 +8,7 @@
 
 ## 💻 Habilidades principales (Sobre mi):
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" height="150px"/>
+<img align="right" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" height="150px"/>
 
 - Inicios en lenguaje **C**
 - Desarrollo con **Java** y **Python** 🐍☕
