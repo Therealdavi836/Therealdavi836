@@ -6,15 +6,20 @@
 
 <br/>
 
-## 💻 Habilidades principales:
+## 💻 Habilidades principales (Sobre mi):
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" height="150px"/>
 
-- Desarrollo con **Java** y **Python** 🐍☕  
+- Inicios en lenguaje **C**
+- Desarrollo con **Java** y **Python** 🐍☕
+- Desarrollo con **JavaScript**,**CSS** Y **HTML** 
 - Conocimientos en **Bases de Datos Relacionales** (MySQL, PostgreSQL) 📊  
 - Configuración de sistemas operativos Linux (Debian, Ubuntu) 🐧  
-- Desarrollo de interfaces gráficas y aplicaciones concurrentes 🔄  
-- **Virtualización** con VirtualBox y manejo de entornos de desarrollo 📦  
+- Desarrollo de interfaces gráficas y aplicaciones concurrentes 🔄
+- Desarrollo de sistemas de información en multiples campos  
+- **Virtualización** con VirtualBox
+- **Manejo** de entornos de desarrollo (Visual Studio Code, Apache Netbeans, etc)📦
+- Uso de **Frameworks** de Desarrollo (Laravel y Bootstrap) 
 
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -22,6 +27,12 @@
 <code><a href="https://www.virtualbox.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a></code>
 
 ---
+
+## 🌱 En estos momentos estoy aprendiendo:
+
+- Servicios de Computación en Nube (Amazon Web Services)
+- Docker y formas de implementación
+- Profundizando en PHP y uso de laravel como framework nativo 
 
 ## 🌟 Estadísticas:
 
@@ -42,7 +53,7 @@
   <img align="center" alt="Instagram de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/juandavid" target="blank">
-  <img align="center" alt="Twitter de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <img align="center" alt="Twitter de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" />
  </a>
 </p>  
 
