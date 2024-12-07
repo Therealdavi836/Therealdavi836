@@ -12,7 +12,7 @@
 
 - Inicios en lenguaje **C**
 - Desarrollo con **Java** y **Python** 🐍☕
-- Desarrollo con **JavaScript**,**CSS** Y **HTML** 
+- Desarrollo con **JavaScript**, **CSS** Y **HTML** 
 - Conocimientos en **Bases de Datos Relacionales** (MySQL, PostgreSQL) 📊  
 - Configuración de sistemas operativos Linux (Debian, Ubuntu) 🐧  
 - Desarrollo de interfaces gráficas y aplicaciones concurrentes 🔄
