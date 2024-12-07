@@ -42,7 +42,7 @@
   <img align="center" alt="Instagram de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/juandavid" target="blank">
-  <img align="center" alt="Twitter de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Twitter de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
  </a>
 </p>  
 
