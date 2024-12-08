@@ -2,11 +2,11 @@
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> ¡Hola Mundo! &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
+<img align="left" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" height="150px"/>
+
 <em>¡Hola! Mi nombre es **Juan David**, estudiante de **Administración de Sistemas Informáticos** en la **Universidad Nacional de Colombia - Sede Manizales (UNAL-MAN)**. 🌟 Amo el mundo de la tecnología, es un campo gigantesco que siempre me motiva a aprender y mejorar. Estoy convencido de que **el conocimiento es poder** 🧠 y que cada día es una nueva oportunidad para crecer y perseverar 🚀.</em>  
 
 <br/>
-
-<img align="left" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" height="150px"/>
 
 ## 💻 Habilidades principales (Sobre mi):
 
