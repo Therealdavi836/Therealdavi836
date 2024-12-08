@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="center" src="![image](https://github.com/user-attachments/assets/2c973715-34eb-45c9-8217-845031730ae9)" height="150px"/>
+<img align="center" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" height="150px"/>
 
 ## 💻 Habilidades principales (Sobre mi):
 
