@@ -32,7 +32,11 @@
 
 - Servicios de Computación en Nube (Amazon Web Services)
 - Docker y formas de implementación
-- Profundizando en PHP y uso de laravel como framework nativo 
+- Profundizando en PHP y uso de laravel como framework nativo
+
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a href="https://aws.amazon.com/es/?nc2=h_lg" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 
 ## 🌟 Estadísticas:
 
