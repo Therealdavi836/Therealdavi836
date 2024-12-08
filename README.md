@@ -6,6 +6,8 @@
 
 <br/>
 
+<img align="center" src="![image](https://github.com/user-attachments/assets/2c973715-34eb-45c9-8217-845031730ae9)" height="150px"/>
+
 ## 💻 Habilidades principales (Sobre mi):
 
 <img align="right" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" height="150px"/>
