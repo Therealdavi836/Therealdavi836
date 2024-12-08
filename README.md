@@ -30,6 +30,8 @@
 
 ## 🌱 En estos momentos estoy aprendiendo:
 
+<img align="right" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-17.gif" height="150px"/>
+
 - Servicios de Computación en Nube (Amazon Web Services)
 - Docker y formas de implementación
 - Profundizando en PHP y uso de laravel como framework nativo
