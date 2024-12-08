@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="center" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" height="150px"/>
+<img align="right" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" height="150px"/>
 
 ## 💻 Habilidades principales (Sobre mi):
 
