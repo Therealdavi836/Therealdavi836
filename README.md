@@ -55,7 +55,7 @@
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/juan-david-fajardo-betancourt-657212252/" target="blank">
-  <img align="center" alt="LinkedIn de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="LinkedIn de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
  </a>
 </p>  
 
