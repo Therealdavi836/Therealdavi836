@@ -57,12 +57,6 @@
  <a href="https://www.linkedin.com/in/juan-david-fajardo-betancourt-657212252/" target="blank">
   <img align="center" alt="LinkedIn de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/juandavid/" target="blank">
-  <img align="center" alt="Instagram de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/juandavid" target="blank">
-  <img align="center" alt="Twitter de Juan David" width="30px" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" />
- </a>
 </p>  
 
 ---
