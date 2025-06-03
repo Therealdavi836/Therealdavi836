@@ -64,7 +64,6 @@
 
 ---
 
-<p align="center">Thank you for visiting my profile 😁</p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuanDavid" /></p>    
+<p align="center">Thank you for visiting my profile 😁</p>   
 
 ---
