@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" height="150px"/>
 
-<em>¡Hola! Mi nombre es **Juan David**, estudiante de **Administración de Sistemas Informáticos** en la **Universidad Nacional de Colombia - Sede Manizales (UNAL-MAN)**. 🌟 Amo el mundo de la tecnología, es un campo gigantesco que siempre me motiva a aprender y mejorar. Estoy convencido de que **el conocimiento es poder** 🧠 y que cada día es una nueva oportunidad para crecer y perseverar 🚀.</em>  
+<em>Hello! My name is **Juan David**, a **Computer Systems Administration** student at the **National University of Colombia - Manizales Campus (UNAL-MAN)**. 🌟 I love the world of technology; it's a vast field that always motivates me to learn and improve. I'm convinced that **knowledge is power** 🧠 and that every day is a new opportunity to grow and persevere 🚀. </em>  
 
 <br/>
 
