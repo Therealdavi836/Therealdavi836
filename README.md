@@ -25,6 +25,14 @@
 - Web page programming with Laravel and React
 - AWS Microservices Application
 - Docker Deployment
+- PHP coding
+- Bootstrap responsive sites
+- GitHub and git Code control
+- Scrum and agile methods of software development
+- Systems Auditory and use of RBA models
+- ISO 27001 - ISO 27002
+- Cobit 2019
+- Use of ofirmatics tools
 
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -34,6 +42,11 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://es.react.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.atlassian.com/es/software/jira" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
 
 ---
 
