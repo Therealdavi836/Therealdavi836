@@ -22,9 +22,8 @@
 - Virtualization with VirtualBox
 - Management of development environments (Visual Studio Code, Apache Netbeans, etc.) 📦
 - Use of development frameworks (Laravel, Bootstrap, and Pytest)
-- Web page programming with Laravel and React
+- Web page programming with Laravel, Django and React
 - AWS Microservices Application
-- Docker Deployment
 - PHP coding
 - Bootstrap responsive sites
 - GitHub and git Code control
@@ -39,7 +38,6 @@
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.virtualbox.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/es/?nc2=h_lg" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://es.react.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
@@ -47,6 +45,7 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.atlassian.com/es/software/jira" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 
 ---
 
@@ -54,9 +53,21 @@
 
 <img align="right" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-17.gif" height="150px"/>
 
-- Web page programming with Django
+- Web page programming with Flask, Next.js, Django REST
+- Database noSQL with mongoDB
+- postgreSQL
+- Network Data with Cisco Networking Academy
+- Docker Deployment
+- Deployment and orchestration with Kubernetes and Minikube
 
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg"></a></code>
+<code><a href="https://www.django-rest-framework.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://www.netacad.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></a></code>
+<code><a href="https://www.docker.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a href="https://kubernetes.io/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21~bgwhite.svg"></a></code>
 
 ## 🌟 Statistics:
 
